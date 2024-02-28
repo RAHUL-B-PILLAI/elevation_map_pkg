@@ -1,0 +1,15 @@
+[submodule "elevation_mapping"]
+	path = elevation_mapping
+	url = https://github.com/anybotics/elevation_mapping.git
+[submodule "kindr"]
+	path = kindr
+	url = https://github.com/ANYbotics/kindr.git
+[submodule "kindr_ros"]
+	path = kindr_ros
+	url = https://github.com/ANYbotics/kindr_ros.git
+[submodule "point_cloud_io"]
+	path = point_cloud_io
+	url = https://github.com/ANYbotics/point_cloud_io.git
+[submodule "message_logger"]
+	path = message_logger
+	url = https://github.com/ANYbotics/message_logger.git
